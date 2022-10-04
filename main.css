@@ -243,3 +243,96 @@ color: #22343D;
 #footer a:hover {
     color: red;
 }
+/*Mehroj Hakimov*/
+.HM-obshi{
+    width: 100%;
+    height:100vh;
+}
+.HM-drn{
+    display: grid;
+    width: 90%;
+    height: 80%;
+    grid-template-columns: 45% 45%;
+    padding-top: 100px;
+    grid-template-rows: auto;
+justify-content: center;
+align-items: center;
+}
+.HM-divo1{
+    width: 100%;
+    height: 451px;
+    margin-left: 70px;
+}
+.HM-divo2{
+    width: 100%;
+    height: 450px;
+    margin-left: 150px;
+}
+.optim11{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+color: #22343D;
+}
+.col11{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+padding-top: 10px;
+line-height: 48px;
+color: #22343D;
+}
+.few11{
+    width: 486px;
+    height: 78px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-top: 25px;
+    color: #22343D;    
+}
+.acc11{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #22343D;   
+    padding-top: 25px; 
+}
+.whi11{
+    width: 486px;
+    height: 48px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #22343D;  
+    padding-top: 20px;
+}
+.alt11{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #22343D;  
+    padding-top: 25px; 
+}
+.if11{
+    width: 486px;
+    height: 48px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #22343D;  
+    padding-top: 20px;
+}
