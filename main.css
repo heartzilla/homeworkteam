@@ -2,6 +2,122 @@
     margin: 0;
     padding: 0;
 }
+*{
+    font-family: Poppins;
+    font-weight: 600;
+}
+.navbar{
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.navar-left{
+    display: flex;
+    justify-content: space-around;
+}
+.n{
+    width: 60px;
+    height: 50px;
+}
+.n1{
+    color: #173A56;
+    font-size: 40px;
+}
+.navbar-rigth li{
+     list-style: none;
+     color: #22343D;
+     font-size: 25px;
+}
+.amm{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    padding-top: 10px;
+}
+.n2{
+    color: #173A56;
+}
+.right-one{
+    width: 62px;
+    height: 25px;
+    background-color: #FFFFFF;
+    color: #173A56;
+    border: #173A56 1px solid;
+    text-align: center;
+    border-radius: 4px;
+}
+.right-two{
+    width: 62px;
+    height: 25px;
+    background-color:#02897A;
+    color: #FFFFFF;
+    border: #02897A 1px solid;
+    text-align: center;
+    border-radius: 4px;
+}
+.right-one:hover{
+    background-color: #02897A;
+    color: #FFFFFF;
+}
+.right-two:hover{
+    background-color: #FFFFFF;
+    color: #02897A;
+}
+.all{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.c1{
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 60px;
+    color: #173A56;
+    padding-bottom: 30px;
+}
+.c2{
+    color: #22343D;
+    font-size: 20px;
+}
+.container-AM{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 60px;
+}
+.xat{
+    width: 175px;
+    height: 50px;
+    background-color: #02897A;
+    color: #FFFFFF;
+    text-align: center;
+    border-radius: 6px;
+}
+.xat:hover{
+    color: #173A56;
+    background-color: #FFFFFF;
+}
+.x1{
+    font-size: 20px;
+    padding-top: 12px;
+}
+.xaxa{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.x2{
+    font-size: 20px;
+    color: #02897A;
+    padding-top: 15px;
+}
+.x2:hover{
+    color: #173A56;
+}
+.x3{
+    border: #02897A 1px solid;
+    width: 140px;
+}
 .mun-text{
     background-color:#FFFFFF;
     display: grid;
